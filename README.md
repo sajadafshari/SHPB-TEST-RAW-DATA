@@ -1,2 +1,1 @@
-# SHPB-TEST-RAW-DATA
-SHPB TEST RAW DATA
+This SHPB Data set, includes the response from the incident Bara and the Transmission Bar. The stress-strain curves can be plotted using these data. The data is for a Twintex®  TPP60NB22P-050 composite specimen under impacts number : 1 , 5, 9, 15, 19.
